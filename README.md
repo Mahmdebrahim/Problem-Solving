@@ -21,14 +21,10 @@ Inside each daily folder:
 
   -README.md: Explanation of the solution, including the approach, time/space complexity, and any additional notes.
 
+=> Resources
 
+LeetCode
 
+CodeWars
 
-
-
-
-Resources
-
-LeetCode: For a variety of algorithmic problems.
-Codeforces: For competitive programming challenges.
-HackerRank: For practice across different domains.
+HackerRank
